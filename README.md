@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MistrKoala
 - 👀 I’m interested in Discord API and Game creation
-- 🌱 I’m currently working on a big project using Lua
+- 🌱 I’m currently working on a FPS Game mainly utilizing lua, stay tune for opensource.
 - 📫 How to reach me: Discord.com: @MrKoala#3549
 
 <!---
