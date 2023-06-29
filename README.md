@@ -3,7 +3,7 @@
 
 <h2 align="center"> About me:</h2>
 <p align="center">
- Semi Experienced Game Devleloper. <br>
+ Semi Experienced Game Developer. <br>
 </p>
 
 <h2 align="center">My Experiences</h2>
