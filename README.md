@@ -15,10 +15,12 @@
     <img class="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white">
     <img class="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white">
     <img class="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white">
+    <img class="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
+    <img class="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
+    <img class="discord" src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white">
     <img class="vsc" src="https://img.shields.io/badge/VSC-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
     <img class="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white">
-    <img class="roblox studio" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=blue">
-   <img class="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
+    <img class="roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=blue">
 </div>
 
 
