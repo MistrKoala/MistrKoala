@@ -3,7 +3,7 @@
 
 <h2 align="center"> About me:</h2>
 <p align="center">
- Semi Experienced Game Developer. <br>
+ I am a web and game developer from London. I have loved programming for as long  as I can remember and am currently working on CompanionAI, something I've never tried before. <br>
 </p>
 
 <h2 align="center">My Experiences</h2>
