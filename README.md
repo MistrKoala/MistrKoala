@@ -3,7 +3,7 @@
 
 <h2 align="center"> About me:</h2>
 <p align="center">
- I am a web and game developer from London. I have loved programming for as long  as I can remember and am currently working on CompanionAI, something I've never tried before. <br>
+ I am a discord bot and game developer from London. I have loved programming for as long  as I can remember and am currently working on Synthia and MiniMod. MiniMod is a AutoModeration and Moderation commands discord bot, and Synthia is a Companionised AI. <br>
 </p>
 
 <h2 align="center">My Experiences</h2>
