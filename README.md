@@ -21,7 +21,7 @@
     <img class="vsc" src="https://img.shields.io/badge/VSC-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
     <img class="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white">
     <img class="roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=blue">
-    <img class="Python" src="https://img.shields.io/badge/Python-3600?style=for-the-badge&amp;logo=roblox&amp;logoColor=yellow">
+    <img class="Python" src="https://img.shields.io/pypi/pyversions/:packageName?style=for-the-badge&amp;logo=roblox&amp;logoColor=yellow">
 </div>
 
 
