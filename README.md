@@ -21,9 +21,9 @@
     <img class="vsc" src="https://img.shields.io/badge/VSC-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
     <img class="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white">
     <img class="roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=blue">
-    <img class="roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=blue">
     <img class="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue">
-    
+    <img class="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow">
+
 </div>
 
 
