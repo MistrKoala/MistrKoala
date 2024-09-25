@@ -3,7 +3,7 @@
 
 <h2 align="center"> About me:</h2>
 <p align="center">
- I am a software engineer from London. I have loved programming for as long  as I can remember and am currently working on MiniMod, which will be an open-sourced discord API. <br>
+ I am a software engineer student from London attending St Marys University. I have loved programming for as long  as I can remember and am currently working on MiniMod, which will be an open-sourced discord API. <br>
 </p>
 
 <h2 align="center">My Experiences</h2>
