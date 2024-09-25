@@ -23,6 +23,9 @@
     <img class="roblox" src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=blue">
     <img class="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue">
     <img class="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow">
+    <img class="steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+    <img class="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
+
 
 </div>
 
