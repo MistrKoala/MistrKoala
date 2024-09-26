@@ -2,9 +2,9 @@
 # Hi there, I'm Koala 👋
 
 ## About Me
-- 🌱 Currently learning [technologies or languages].
-- 💼 I’m a [Your Job Title] at [Your Company/School].
-- 📫 How to reach me: [Your Email or LinkedIn].
+- 🌱 Currently learning Rust.
+- 💼 I’m a Software Engineer Student at St Mary's University.
+- 📫 How to reach me: mistrkoaladevelopment@gmail.com or MistrKoala on Discord.
 
 ## Skills
 - Languages: Java, JavaScript, Rust(Learning), Lua, HTML, C++, C#, CSS
