@@ -11,7 +11,6 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="16" height="16"/> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="16" height="16"/> React
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.svg" alt="JavaScript" width="16" height="16"/> JavaScript
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Docker.png" alt="Docker" width="16" height="16"/> Docker
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Lua-Logo.svg" alt="Lua" width="16" height="16"/> Lua
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" alt="Java" width="16" height="16"/> Java
 - <img src="https://upload.wikimedia.org/logo/rust-logo-512x512.png" alt="Rust" width="16" height="16"/> Rust
