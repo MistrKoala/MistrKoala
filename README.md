@@ -38,7 +38,7 @@
 
 
 ## Contributions
-- Check out my contributions to [Project Name](link)!
+- Working on something big...
 
 
 
