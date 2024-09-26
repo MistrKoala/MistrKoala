@@ -41,11 +41,3 @@
 - Working on something big...
 
 
-
-<h2 align="center">Find Me</h2>
- <p align="center">
-    <a href="https://discord.gg/8HwggqPQ5u" alt="Koala Studios">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-
- </p>
