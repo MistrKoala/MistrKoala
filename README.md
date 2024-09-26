@@ -10,6 +10,7 @@
 
 
 ## Skills
+As a passionate developer with expertise in various programming languages, frameworks, and tools, I continuously strive to enhance my skills and deliver high-quality projects.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
