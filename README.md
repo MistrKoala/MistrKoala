@@ -9,17 +9,18 @@
 
 
 ## Skills
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="16" height="16"/> Python
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="16" height="16"/> React
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.svg" alt="JavaScript" width="16" height="16"/> JavaScript
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Docker.png" alt="Docker" width="16" height="16"/> Docker
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Lua-Logo.svg" alt="Lua" width="16" height="16"/> Lua
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="16" height="16"/> Java
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Rust_logo_2018.svg" alt="Rust" width="16" height="16"/> Rust
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="16" height="16"/> HTML
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="16" height="16"/> C++
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/C_Sharp_logo.svg" alt="C#" width="16" height="16"/> C#
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="16" height="16"/> CSS
+## Skills
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) Python
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) React
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) JavaScript
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) Docker
+- ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff) Lua
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) Java
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff) Rust
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) HTML
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) C++
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff) C#
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) CSS
 
 
 
