@@ -5,12 +5,13 @@
 - 🌱 Currently learning Rust.
 - 💼 I’m a Software Engineer Student at St Mary's University.
 - 📫 How to reach me: mistrkoaladevelopment@gmail.com or MistrKoala on Discord.
+- 🌱 Lua is the best language
 
 
 
 
 ## Skills
-As a passionate developer with expertise in various programming languages, frameworks, and tools, I continuously strive to enhance my skills and deliver high-quality projects.
+As a passionate developer with expertise in various programming languages, frameworks, and tools, I continuously strive to enhance my skills and deliver high-quality projects. I love everything Lua!
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
